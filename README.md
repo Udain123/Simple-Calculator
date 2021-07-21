@@ -1,6 +1,6 @@
 # Simple-Calculator
 This is a Simple Calculator project. This project is basically related to ExpressJS.
-#FrontEnd
+# FrontEnd
 HTML CSS
-#Backend
+# Backend
 Express.js Node.js
